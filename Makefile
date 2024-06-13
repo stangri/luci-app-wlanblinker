@@ -9,6 +9,7 @@ PKG_VERSION:=0.0.1
 PKG_RELEASE:=10
 
 LUCI_TITLE:= WLAN Blinker Web UI
+LUCI_URL:=https://github.com/stangri/luci-app-wlanblinker/
 LUCI_DESCRIPTION:=Provides Web UI for WLAN Blinker service.
 LUCI_DEPENDS:=+luci-compat +luci-base +wlanblinker
 
