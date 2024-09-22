@@ -13,6 +13,6 @@ LUCI_URL:=https://github.com/stangri/luci-app-wlanblinker/
 LUCI_DESCRIPTION:=Provides Web UI for WLAN Blinker service.
 LUCI_DEPENDS:=+luci-compat +luci-base +wlanblinker
 
-include $(TOPDIR)/feeds/luci/luci.mk
+include ../../luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature
