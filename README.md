@@ -1,4 +1,3 @@
 # README
 
-Documentation for this project is available at [https://docs.openwrt.melmac.net/luci-app-wlanblinker/](https://docs.openwrt.melmac.net/luci-app-wlanblinker/).
-
+Documentation for this project is available at [https://docs.openwrt.melmac.net/wlanblinker/](https://docs.openwrt.melmac.net/wlanblinker/).
